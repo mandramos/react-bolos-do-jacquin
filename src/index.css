@@ -26,6 +26,11 @@ body {
     /* background-color: aqua; */
 }
 
+.container-notfound {
+    margin: 0 auto;
+    display: block;
+    /* background-color: aqua; */
+}
 
 /* ---------- H2 ---------- */
 .box_h2 {
